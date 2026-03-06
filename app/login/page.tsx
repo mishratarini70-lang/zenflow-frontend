@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { supabase } from "@/Lib/supabase";
+import { supabase } from "@/lib/supabase";
 import { Zap, Loader2 } from "lucide-react";
 
 export default function LoginPage() {
